@@ -1,5 +1,5 @@
 import java.io.*;
-class library
+class library   //class library
 {
      static String stack_name[]= new String[10000];//stores the name
     static long stack_rollno[]=new long[10000];//stores the roll_no
